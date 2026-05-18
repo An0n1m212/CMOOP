@@ -1,0 +1,4 @@
+E:\KRNU\CMOOP\Lab9\Nomer2\Nomer2\Nomer2\obj\Debug\net8.0\Nomer2.GeneratedMSBuildEditorConfig.editorconfig
+E:\KRNU\CMOOP\Lab9\Nomer2\Nomer2\Nomer2\obj\Debug\net8.0\Nomer2.AssemblyInfoInputs.cache
+E:\KRNU\CMOOP\Lab9\Nomer2\Nomer2\Nomer2\obj\Debug\net8.0\Nomer2.AssemblyInfo.cs
+E:\KRNU\CMOOP\Lab9\Nomer2\Nomer2\Nomer2\obj\Debug\net8.0\Nomer2.csproj.CoreCompileInputs.cache

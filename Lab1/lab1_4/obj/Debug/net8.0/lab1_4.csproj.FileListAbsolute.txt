@@ -1,0 +1,14 @@
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.AssemblyInfoInputs.cache
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.AssemblyInfo.cs
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.csproj.CoreCompileInputs.cache
+E:\KRNU\CMOOP\Lab1\lab1_4\bin\Debug\net8.0\lab1_4.exe
+E:\KRNU\CMOOP\Lab1\lab1_4\bin\Debug\net8.0\lab1_4.deps.json
+E:\KRNU\CMOOP\Lab1\lab1_4\bin\Debug\net8.0\lab1_4.runtimeconfig.json
+E:\KRNU\CMOOP\Lab1\lab1_4\bin\Debug\net8.0\lab1_4.dll
+E:\KRNU\CMOOP\Lab1\lab1_4\bin\Debug\net8.0\lab1_4.pdb
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.dll
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\refint\lab1_4.dll
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.pdb
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\lab1_4.genruntimeconfig.cache
+E:\KRNU\CMOOP\Lab1\lab1_4\obj\Debug\net8.0\ref\lab1_4.dll

@@ -1,0 +1,14 @@
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfoInputs.cache
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfo.cs
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.csproj.CoreCompileInputs.cache
+E:\KRNU\CMOOP\Lab11\ATM\ATM\bin\Debug\net8.0\ATM.exe
+E:\KRNU\CMOOP\Lab11\ATM\ATM\bin\Debug\net8.0\ATM.deps.json
+E:\KRNU\CMOOP\Lab11\ATM\ATM\bin\Debug\net8.0\ATM.runtimeconfig.json
+E:\KRNU\CMOOP\Lab11\ATM\ATM\bin\Debug\net8.0\ATM.dll
+E:\KRNU\CMOOP\Lab11\ATM\ATM\bin\Debug\net8.0\ATM.pdb
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.dll
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\refint\ATM.dll
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.pdb
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ATM.genruntimeconfig.cache
+E:\KRNU\CMOOP\Lab11\ATM\ATM\obj\Debug\net8.0\ref\ATM.dll

@@ -1,0 +1,14 @@
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.GeneratedMSBuildEditorConfig.editorconfig
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.AssemblyInfoInputs.cache
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.AssemblyInfo.cs
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.csproj.CoreCompileInputs.cache
+E:\KRNU\CMOOP\Lab2\Nomer4\bin\Debug\net8.0\Nomer4.exe
+E:\KRNU\CMOOP\Lab2\Nomer4\bin\Debug\net8.0\Nomer4.deps.json
+E:\KRNU\CMOOP\Lab2\Nomer4\bin\Debug\net8.0\Nomer4.runtimeconfig.json
+E:\KRNU\CMOOP\Lab2\Nomer4\bin\Debug\net8.0\Nomer4.dll
+E:\KRNU\CMOOP\Lab2\Nomer4\bin\Debug\net8.0\Nomer4.pdb
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.dll
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\refint\Nomer4.dll
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.pdb
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\Nomer4.genruntimeconfig.cache
+E:\KRNU\CMOOP\Lab2\Nomer4\obj\Debug\net8.0\ref\Nomer4.dll

@@ -1,0 +1,14 @@
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\bin\Debug\net8.0\Nomer3.exe
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\bin\Debug\net8.0\Nomer3.deps.json
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\bin\Debug\net8.0\Nomer3.runtimeconfig.json
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\bin\Debug\net8.0\Nomer3.dll
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\bin\Debug\net8.0\Nomer3.pdb
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.dll
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\refint\Nomer3.dll
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.pdb
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\Nomer3.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Lab10\Nomer1\Nomer3\obj\Debug\net8.0\ref\Nomer3.dll

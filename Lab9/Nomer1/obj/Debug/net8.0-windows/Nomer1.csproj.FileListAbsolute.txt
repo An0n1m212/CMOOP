@@ -1,0 +1,14 @@
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.AssemblyInfo.cs
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\LAB9\Nomer1\bin\Debug\net8.0-windows\Nomer1.exe
+C:\Users\Professional\Desktop\LAB9\Nomer1\bin\Debug\net8.0-windows\Nomer1.deps.json
+C:\Users\Professional\Desktop\LAB9\Nomer1\bin\Debug\net8.0-windows\Nomer1.runtimeconfig.json
+C:\Users\Professional\Desktop\LAB9\Nomer1\bin\Debug\net8.0-windows\Nomer1.dll
+C:\Users\Professional\Desktop\LAB9\Nomer1\bin\Debug\net8.0-windows\Nomer1.pdb
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.dll
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\refint\Nomer1.dll
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.pdb
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\Nomer1.genruntimeconfig.cache
+C:\Users\Professional\Desktop\LAB9\Nomer1\obj\Debug\net8.0-windows\ref\Nomer1.dll

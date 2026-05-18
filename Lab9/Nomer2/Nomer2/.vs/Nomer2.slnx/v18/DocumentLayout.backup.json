@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KRNU\\CMOOP\\Lab9\\Nomer2\\Nomer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D499507-778F-4FBC-A225-30583C58438D}|Nomer2\\Nomer2.csproj|e:\\krnu\\cmoop\\lab9\\nomer2\\nomer2\\nomer2\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D499507-778F-4FBC-A225-30583C58438D}|Nomer2\\Nomer2.csproj|solutionrelative:nomer2\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D499507-778F-4FBC-A225-30583C58438D}|Nomer2\\Nomer2.csproj|e:\\krnu\\cmoop\\lab9\\nomer2\\nomer2\\nomer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D499507-778F-4FBC-A225-30583C58438D}|Nomer2\\Nomer2.csproj|solutionrelative:nomer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab9\\Nomer2\\Nomer2\\Nomer2\\Structure.cs",
+              "RelativeDocumentMoniker": "Nomer2\\Structure.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab9\\Nomer2\\Nomer2\\Nomer2\\Structure.cs",
+              "RelativeToolTip": "Nomer2\\Structure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T22:23:36.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab9\\Nomer2\\Nomer2\\Nomer2\\Program.cs",
+              "RelativeDocumentMoniker": "Nomer2\\Program.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab9\\Nomer2\\Nomer2\\Nomer2\\Program.cs",
+              "RelativeToolTip": "Nomer2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T22:23:22.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

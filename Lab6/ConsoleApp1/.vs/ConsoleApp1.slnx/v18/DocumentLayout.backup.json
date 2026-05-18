@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\method\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\method\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\studencontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\studencontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|e:\\krnu\\cmoop\\lab6\\consoleapp1\\consoleapp1\\class\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudenContainer.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\StudenContainer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\StudenContainer.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\StudenContainer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\StudenContainer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:38:30.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Interface\\Interface.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\Interface.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Interface\\Interface.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:37:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Method\\Method.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Method\\Method.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Method\\Method.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Method\\Method.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:32:58.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Student.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:50:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Person.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Person.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:50:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Exam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Exam.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Exam.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:50:10.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "desktop.ini",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\desktop.ini",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\desktop.ini",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\desktop.ini",
+              "RelativeToolTip": "ConsoleApp1\\Class\\desktop.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-31T16:50:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Education.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Education.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Education.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Class\\Education.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:49:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab6\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:49:32.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
