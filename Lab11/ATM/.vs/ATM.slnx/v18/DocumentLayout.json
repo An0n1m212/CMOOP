@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\bank\\servise\\bankincasationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\bank\\servise\\bankincasationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatmuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatmuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\servise\\atmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\servise\\atmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\atmcassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\atmcassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\atmcassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\atmcassette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\atmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\atmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatmuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatmuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\bank\\servise\\bankincasationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\bank\\servise\\bankincasationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\servise\\fileauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\servise\\fileauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\servise\\fileauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\servise\\fileauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D201FCC4-2AFA-EB74-A1CA-25F786C57877}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,15 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 18,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAtmIncasator.cs",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
+              "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
+              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:42:02.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "IAuditService.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAuditService.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAuditService.cs",
@@ -71,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "BankIncasationService.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Bank\\Servise\\BankIncasationService.cs",
               "RelativeDocumentMoniker": "ATM\\Bank\\Servise\\BankIncasationService.cs",
@@ -92,8 +101,7 @@
               "RelativeToolTip": "ATM\\Bank\\Bank.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:45:14.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T12:45:14.996Z"
             },
             {
               "$type": "Document",
@@ -110,13 +118,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AtmDevice.cs",
-              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmDevice.cs",
-              "RelativeDocumentMoniker": "ATM\\ATM\\AtmDevice.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmDevice.cs",
-              "RelativeToolTip": "ATM\\ATM\\AtmDevice.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Servise\\AtmDevice.cs",
+              "RelativeDocumentMoniker": "ATM\\ATM\\Servise\\AtmDevice.cs",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Servise\\AtmDevice.cs",
+              "RelativeToolTip": "ATM\\ATM\\Servise\\AtmDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:43:20.309Z",
               "EditorCaption": ""
@@ -131,25 +139,11 @@
               "RelativeToolTip": "ATM\\Servise\\FileAuditService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:43:05.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T12:43:05.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IAtmIncasator.cs",
-              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
-              "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
-              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:42:02.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IAtmUserOperations.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmUserOperations.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtmUserOperations.cs",
@@ -162,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IAtm.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtm.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtm.cs",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "ATM\\ATM\\Interface\\IAtm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:41:28.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T12:41:28.557Z"
             },
             {
               "$type": "Document",
@@ -185,6 +178,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:40:42.652Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

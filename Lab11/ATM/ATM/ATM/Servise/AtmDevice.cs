@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATM.ATM
+namespace ATM.ATM.Servise
 {
     public class AtmDevice : IAtm
     {

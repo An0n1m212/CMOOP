@@ -1,5 +1,6 @@
 ﻿using ATM.ATM.Interface;
 using ATM.ATM;
+using ATM.ATM.Servise;
 
 namespace ATM.Servise
 {

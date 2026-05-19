@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|e:\\krnu\\cmoop\\lab11\\atm\\atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7006D9-6444-4693-BA6D-EE05B87AD3F5}|ATM\\ATM.csproj|solutionrelative:atm\\atm\\interface\\iatmincasator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 18,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "IAuditService.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAuditService.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAuditService.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BankIncasationService.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Bank\\Servise\\BankIncasationService.cs",
               "RelativeDocumentMoniker": "ATM\\Bank\\Servise\\BankIncasationService.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Bank.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Bank\\Bank.cs",
               "RelativeDocumentMoniker": "ATM\\Bank\\Bank.cs",
@@ -97,12 +97,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AtmController.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmController.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\AtmController.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmController.cs*",
-              "RelativeToolTip": "ATM\\ATM\\AtmController.cs*",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmController.cs",
+              "RelativeToolTip": "ATM\\ATM\\AtmController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:44:58.158Z",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AtmDevice.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmDevice.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\AtmDevice.cs",
@@ -123,12 +123,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "FileAuditService.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Servise\\FileAuditService.cs",
               "RelativeDocumentMoniker": "ATM\\Servise\\FileAuditService.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Servise\\FileAuditService.cs*",
-              "RelativeToolTip": "ATM\\Servise\\FileAuditService.cs*",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Servise\\FileAuditService.cs",
+              "RelativeToolTip": "ATM\\Servise\\FileAuditService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:43:05.636Z",
@@ -136,12 +136,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IAtmIncasator.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs*",
-              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtmIncasator.cs*",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmIncasator.cs",
+              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtmIncasator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:42:02.637Z",
@@ -149,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IAtmUserOperations.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtmUserOperations.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtmUserOperations.cs",
@@ -162,12 +162,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IAtm.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtm.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\Interface\\IAtm.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtm.cs*",
-              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtm.cs*",
+              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\Interface\\IAtm.cs",
+              "RelativeToolTip": "ATM\\ATM\\Interface\\IAtm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:41:28.557Z",
@@ -175,20 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Program.cs",
-              "RelativeDocumentMoniker": "ATM\\Program.cs",
-              "ToolTip": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\Program.cs",
-              "RelativeToolTip": "ATM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:40:08.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AtmCassette.cs",
               "DocumentMoniker": "E:\\KRNU\\CMOOP\\Lab11\\ATM\\ATM\\ATM\\AtmCassette.cs",
               "RelativeDocumentMoniker": "ATM\\ATM\\AtmCassette.cs",
@@ -198,10 +185,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:40:42.652Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
